@@ -167,7 +167,6 @@ The project validates:
 
 
 ## Core Business KPIs
-# SQL Analysis Screenshots
 
 ## Total Revenue
 
